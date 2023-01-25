@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elias
 - 👀 I’m interested in developing my skills related to blockchain, machine learning and data science.
-- 🌱 I’m currently learning web developement and data analysis with Python.
+- 🌱 I’m currently learning web development and data analysis with Python.
 - 💞️ I’m looking to collaborate on a project related to blockchain, machine learning and data science.
 - 📫 How to reach me: elias.khadraoui@hotmail.com
 
